@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33627.172
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexFieldTextBoxWF", "FlexFieldTextBoxWF\FlexFieldTextBoxWF.csproj", "{7ABC0024-C5C1-449B-9CB5-6DC3A07AFE72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlexFieldTextBoxWF", "FlexFieldTextBoxWF\FlexFieldTextBoxWF.csproj", "{7ABC0024-C5C1-449B-9CB5-6DC3A07AFE72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexFieldTextBoxWFTest", "FlexFieldTextBoxWFTest\FlexFieldTextBoxWFTest.csproj", "{DF809F50-58FF-47D3-B682-6C9122E87FD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlexFieldTextBoxWFTest", "FlexFieldTextBoxWFTest\FlexFieldTextBoxWFTest.csproj", "{DF809F50-58FF-47D3-B682-6C9122E87FD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexFieldTextBoxWPF", "FlexFieldTextBoxWPF\FlexFieldTextBoxWPF.csproj", "{11414893-87B0-452D-843B-2ACC2EE38513}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlexFieldTextBoxWPFTest", "FlexFieldTextBoxWPFTest\FlexFieldTextBoxWPFTest.csproj", "{EEF52736-8EBC-4EF0-8D93-3C4B4C4C256D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{DF809F50-58FF-47D3-B682-6C9122E87FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DF809F50-58FF-47D3-B682-6C9122E87FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DF809F50-58FF-47D3-B682-6C9122E87FD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11414893-87B0-452D-843B-2ACC2EE38513}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11414893-87B0-452D-843B-2ACC2EE38513}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11414893-87B0-452D-843B-2ACC2EE38513}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11414893-87B0-452D-843B-2ACC2EE38513}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEF52736-8EBC-4EF0-8D93-3C4B4C4C256D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF52736-8EBC-4EF0-8D93-3C4B4C4C256D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF52736-8EBC-4EF0-8D93-3C4B4C4C256D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF52736-8EBC-4EF0-8D93-3C4B4C4C256D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

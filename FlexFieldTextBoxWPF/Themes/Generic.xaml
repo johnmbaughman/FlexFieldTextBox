@@ -1,0 +1,6 @@
+<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:FlexFieldTextBoxWPF">
+    <Style TargetType="{x:Type local:FlexFieldTextBox}" BasedOn="{StaticResource {x:Type TextBox}}" />
+</ResourceDictionary>
